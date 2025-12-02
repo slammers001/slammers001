@@ -297,7 +297,6 @@
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 😒->😴->😲->🤭 </text>
     <text x="15" y="50"> My code cycle </text>
-    <text x="15" y="50"> Mad it doesn't work, tired of working on it, suddenly it works. Don't tell anyone, it was just a syntax error!) </text>
   </g>
 
   <!-- typing 3 -->
@@ -321,7 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Google Developers Expert for ML and GCP </text>    
+    <text x="15" y="27"> Mad it doesn't work, tired of working on it, suddenly it works. </text>   
+    <text x="15" y="27"> (Don't tell anyone, it was just a syntax error!) 🤫 </text>   
   </g>
 
 
