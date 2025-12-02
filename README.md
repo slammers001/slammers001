@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![](https://github.com/slammers001/slammers001/blob/main/chat.svg)](https://github.com/slammers001)
 
 <!--
 **slammers001/slammers001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
