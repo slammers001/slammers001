@@ -354,6 +354,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-6">
     <rect width="550" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Or, to check out my GitHub page: <a xlink:href="https://github.com/slammers001">https://github.com/slammers001</a></text>
+    <text x="15" y="27"> Or check out my GH page: <a xlink:href="https://github.com/slammers001">https://github.com/slammers001</a></text>
   </g>
 </svg>
