@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: slammers001
-          config_timezone: Europe/Minsk
+          config_timezone: US
 #          config_display: columns
           committer_message: "chore: update metrics"
           template: classic
