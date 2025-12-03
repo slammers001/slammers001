@@ -22,6 +22,8 @@ jobs:
         # uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         uses: lowlighter/metrics@v3.34
         with:
+          # GitHub Personal Access Token
+          token: ${{ secrets.GH_TOKEN }}
           # GitHub username
           user: slammers001
           # Target branch for output
