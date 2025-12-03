@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: read
+      issues: read
+      discussions: read
     steps:
       - name: Metrics embed
         # You may pin to the exact commit or the version.
@@ -36,4 +39,11 @@ jobs:
           plugin_activity: yes
           plugin_habits: yes
           plugin_stargazers: yes
+          # Configure habits plugin
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          # Configure activity plugin  
+          plugin_activity_days: 14
+          plugin_activity_limit: 100
           
