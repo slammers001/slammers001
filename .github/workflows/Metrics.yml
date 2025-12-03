@@ -6,10 +6,6 @@ on:
     - cron: "0 0 * * *"
   # Allows manual triggering
   workflow_dispatch:
-  # Runs on push to main branch
-  push:
-    branches:
-      - main
 
 jobs:
   metrics:
