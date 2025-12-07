@@ -1,4 +1,3 @@
-## Hi there 👋
 [![](https://github.com/slammers001/slammers001/blob/main/chat.svg)](https://github.com/slammers001)
 
 ### 📈 GitHub Activity Graph:
@@ -10,3 +9,5 @@
 ![slammers001's metrics](https://raw.githubusercontent.com/slammers001/slammers001/output/Metrics.svg)
 
 ![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
+
+###### (all repos are private)
