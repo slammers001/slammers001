@@ -42,4 +42,7 @@ jobs:
           # Configure activity plugin  
           plugin_activity_days: 14
           plugin_activity_limit: 100
+          # Additional settings to ensure output
+          committer_message: "Update metrics"
+          output_action: commit
           
