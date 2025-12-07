@@ -14,7 +14,8 @@
 
 
 
-### :sparkles: [My followers](src/getTopFollowers.py)
+### :sparkles: My Followers:
+###### Want to be here? Just [follow me](github.com/slammers001)
 
 <!--START_SECTION:top-followers-->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; margin: 20px 0;">
