@@ -22,8 +22,7 @@
   <div style="text-align: center; padding: 15px; background: #f6f8fa; border-radius: 12px; border: 1px solid #e1e4e8; transition: all 0.2s ease;">
     <a href="https://github.com/h0011000" style="text-decoration: none; color: inherit;">
       <img src="https://avatars.githubusercontent.com/u/207253023?v=4" alt="h0011000" style="width: 60px; height: 60px; border-radius: 50%; margin-bottom: 8px; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <div style="font-size: 14px; font-weight: 600; color: #24292e; margin-bottom: 4px;">h0011000</div>
-      <div style="font-size: 12px; color: #586069;">@h0011000</div>
+      <div style="font-size: 14px; font-weight: 600; color: #24292e;">h0011000</div>
     </a>
   </div>
 </div>
