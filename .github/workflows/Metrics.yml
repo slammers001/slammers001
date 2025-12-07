@@ -15,6 +15,7 @@ jobs:
       pull-requests: read
       issues: read
       discussions: read
+      actions: read
     steps:
       - name: Metrics embed
         # You may pin to the exact commit or the version.
@@ -26,7 +27,7 @@ jobs:
           # GitHub username
           user: slammers001
           # Target branch for output
-          committer_branch: output
+          committer_branch: main
           # Output filename
           filename: Metrics.svg
           # Enable plugins
