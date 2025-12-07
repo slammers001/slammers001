@@ -7,6 +7,8 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   top-followers:
