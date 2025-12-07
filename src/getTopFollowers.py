@@ -52,8 +52,7 @@ def format_followers_html(followers):
         html += f'  <div style="text-align: center; padding: 15px; background: #f6f8fa; border-radius: 12px; border: 1px solid #e1e4e8; transition: all 0.2s ease;">\n'
         html += f'    <a href="{profile_url}" style="text-decoration: none; color: inherit;">\n'
         html += f'      <img src="{avatar_url}" alt="{username}" style="width: 60px; height: 60px; border-radius: 50%; margin-bottom: 8px; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">\n'
-        html += f'      <div style="font-size: 14px; font-weight: 600; color: #24292e; margin-bottom: 4px;">{username}</div>\n'
-        html += f'      <div style="font-size: 12px; color: #586069;">@{username}</div>\n'
+        html += f'      <div style="font-size: 14px; font-weight: 600; color: #24292e;">{username}</div>\n'
         html += f'    </a>\n'
         html += f'  </div>\n'
     
