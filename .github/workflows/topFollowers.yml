@@ -3,9 +3,9 @@ name: Get Top Followers
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -30,4 +30,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@77c5b412c50b723d2a4fbc6d71fb5723bcd439aa
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}
