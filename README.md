@@ -17,5 +17,5 @@
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-
+<p>No followers data available yet</p>
 <!--END_SECTION:top-followers-->
