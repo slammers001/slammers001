@@ -38,21 +38,24 @@ def get_followers(username, token):
     return followers[:per_page]
 
 def format_followers_html(followers):
-    """Format followers as HTML"""
+    """Format followers as HTML with nice layout"""
     if not followers:
         return "<p>No followers data available</p>"
     
-    html = '<div style="display: flex; flex-wrap: wrap; gap: 10px;">\n'
+    html = '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; margin: 20px 0;">\n'
     
     for follower in followers:
         username = follower['login']
         avatar_url = follower['avatar_url']
         profile_url = follower['html_url']
         
-        html += f'  <a href="{profile_url}" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 8px; width: 80px;">\n'
-        html += f'    <img src="{avatar_url}" alt="{username}" style="width: 40px; height: 40px; border-radius: 50%; margin-bottom: 4px;">\n'
-        html += f'    <span style="font-size: 12px; color: #586069;">{username}</span>\n'
-        html += f'  </a>\n'
+        html += f'  <div style="text-align: center; padding: 15px; background: #f6f8fa; border-radius: 12px; border: 1px solid #e1e4e8; transition: all 0.2s ease;">\n'
+        html += f'    <a href="{profile_url}" style="text-decoration: none; color: inherit;">\n'
+        html += f'      <img src="{avatar_url}" alt="{username}" style="width: 60px; height: 60px; border-radius: 50%; margin-bottom: 8px; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">\n'
+        html += f'      <div style="font-size: 14px; font-weight: 600; color: #24292e; margin-bottom: 4px;">{username}</div>\n'
+        html += f'      <div style="font-size: 12px; color: #586069;">@{username}</div>\n'
+        html += f'    </a>\n'
+        html += f'  </div>\n'
     
     html += '</div>'
     return html
