@@ -6,7 +6,7 @@
 ![slammers001's github activity graph](https://raw.githubusercontent.com/slammers001/slammers001/output/github-contribution-grid-snake.svg)
 
 
-![slammers001's metrics](https://raw.githubusercontent.com/slammers001/slammers001/output/Metrics.svg)
+![slammers001's metrics](https://raw.githubusercontent.com/slammers001/slammers001/main/Metrics.svg)
 
 ![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
 
