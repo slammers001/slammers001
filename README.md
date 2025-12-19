@@ -1,13 +1,12 @@
 [![](https://github.com/slammers001/slammers001/blob/main/chat.svg)](https://github.com/slammers001)
 
+[![Your paragraph text](https://github.com/user-attachments/assets/162b973c-9259-4afe-be77-b5fb3b99da5d)](https://simicodes.xyz)
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4CAF50&left=true&vCenter=true&width=600&lines=Hey+there!;I'm+slammers001;" />
-</p>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=slammers001&label=Profile%20views&color=4CAF50&style=flat" />
 </p>
+-->
 
 ### 📈 GitHub Activity Graph:
 
