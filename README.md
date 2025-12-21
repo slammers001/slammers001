@@ -20,7 +20,11 @@
 
 ###### (all repos are private)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slammers001&theme=vue)
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slammers001&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slammers001&theme=vue)
+-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slammers001&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slammers001&theme=vue&utcOffset=8)
 
 ### :sparkles: My Followers:
 #### Want to be here? Just [follow me](https://github.com/slammers001)
