@@ -38,25 +38,33 @@ def get_followers(username, token):
     return followers[:per_page]
 
 def format_followers_html(followers):
-    """Format followers as HTML with nice layout"""
+    """Format followers as HTML table"""
     if not followers:
         return "<p>No followers data available</p>"
     
-    html = '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; margin: 20px 0;">\n'
+    html = '<table>\n'
     
-    for follower in followers:
-        username = follower['login']
-        avatar_url = follower['avatar_url']
-        profile_url = follower['html_url']
+    # Process followers in rows of 7
+    for i in range(0, len(followers), 7):
+        html += '  <tr>\n'
+        row_followers = followers[i:i+7]
         
-        html += f'  <div style="text-align: center; padding: 15px; background: #f6f8fa; border-radius: 12px; border: 1px solid #e1e4e8; transition: all 0.2s ease;">\n'
-        html += f'    <a href="{profile_url}" style="text-decoration: none; color: inherit;">\n'
-        html += f'      <img src="{avatar_url}" alt="{username}" style="width: 60px; height: 60px; border-radius: 50%; margin-bottom: 8px; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">\n'
-        html += f'      <div style="font-size: 14px; font-weight: 600; color: #24292e;">{username}</div>\n'
-        html += f'    </a>\n'
-        html += f'  </div>\n'
+        for follower in row_followers:
+            username = follower['login']
+            avatar_url = follower['avatar_url']
+            profile_url = follower['html_url']
+            
+            html += '    <td align="center">\n'
+            html += f'      <a href="{profile_url}">\n'
+            html += f'        <img src="{avatar_url}" width="100px;" alt="{username}"/>\n'
+            html += f'      </a>\n'
+            html += f'      <br />\n'
+            html += f'      <a href="{profile_url}">{username}</a>\n'
+            html += '    </td>\n'
+        
+        html += '  </tr>\n'
     
-    html += '</div>'
+    html += '</table>'
     return html
 
 def main():
