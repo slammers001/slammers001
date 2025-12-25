@@ -1,6 +1,9 @@
 [![](https://github.com/slammers001/slammers001/blob/main/chat.svg)](https://github.com/slammers001)
 
+<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/94b4fb6f-e1f8-4f55-8c55-8325033447c6" />
+<!--
 [![Your paragraph text](https://github.com/user-attachments/assets/162b973c-9259-4afe-be77-b5fb3b99da5d)](https://simicodes.xyz)
+-->
 
 <!--
 <p align="center">
