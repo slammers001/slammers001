@@ -33,8 +33,13 @@ Also because silence is suspicious.
 - **Website:** https://simicodes.xyz  
 - **Featured project:** Stickee  
   - App: https://stickee.simicodes.xyz  
-  - Info: https://stickee-info.simicodes.xyz  
+  - Info: https://stickee-info.simicodes.xyz
+  - <details>
+    <summary>Screenshot:</summary>
+    <img width="2559" height="1528" alt="stickee" src="https://github.com/user-attachments/assets/b319e502-26bc-47e0-bd34-25f118dcc5de" />
+   ###### Note that the above screenshot is v0.0.1 while Stickee is currently at v2.0.0
 
+  </details>
    A modern web and desktop application for managing and organizing your digital sticky notes and tasks in an easy and fun way. 
 
 
