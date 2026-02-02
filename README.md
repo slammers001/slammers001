@@ -86,6 +86,13 @@ If something here helps you, steals your idea, or anything else to annoy you - m
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ishandutta2007">
+        <img src="https://avatars.githubusercontent.com/u/2527354?v=4" width="100px;" alt="ishandutta2007"/>
+      </a>
+      <br />
+      <a href="https://github.com/ishandutta2007">ishandutta2007</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/h0011000">
         <img src="https://avatars.githubusercontent.com/u/207253023?v=4" width="100px;" alt="h0011000"/>
       </a>
