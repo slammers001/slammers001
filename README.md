@@ -1,68 +1,85 @@
-# Website: [www.simicodes.xyz](www.simicodes.xyz)
-
-<!--[![](https://github.com/slammers001/slammers001/blob/main/chat.svg)](https://github.com/slammers001)
--->
-<!--<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/94b4fb6f-e1f8-4f55-8c55-8325033447c6" />
--->
 <!--
-[![Your paragraph text](https://github.com/user-attachments/assets/162b973c-9259-4afe-be77-b5fb3b99da5d)](https://simicodes.xyz)
+  If you're reading this in raw form:
+  Hey there. You must be impressed.
+  Follow me.
+  Or, you know, don't.
+  Whatever you want.
+  But if you ask what I want, I say:
+  Follow me.
+  ... Go back to line 5.
 -->
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slammers001&label=Profile%20views&color=4CAF50&style=flat" />
-</p>
--->
+<div align="center">
 
-<!--
-### 📈 GitHub Activity Graph:
+# 👋 Hey, I’m Simi
+**Web and Desktop App Developer**  
 
-<!--   green snake --><!--
-<!--![slammers001's github activity graph](https://raw.githubusercontent.com/slammers001/slammers001/output/github-contribution-grid-snake.svg)
--->
-<!--
-![slammers001's metrics](https://raw.githubusercontent.com/slammers001/slammers001/main/Metrics.svg)-->
-<!--
-![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
--->
+This README exists because GitHub profiles without one feel unfinished.
+Also because silence is suspicious.
 
+</div>
 
-<!--START_SECTION:octocats-gif-->
-<p align="left">
-  <img src="octocats/octocat-laptop.png" alt="Octocat" width="100"/>
-</p>
-<!--END_SECTION:octocats-gif-->
+---
+
+## 🌍 Stats, Because Numbers Are Persuasive
+
+<div align="center">
+  <img src="./Metrics.svg" alt="GitHub Metrics" />
+</div>
+
+---
+
+## 🌐 On the Internet
+
+- **Website:** https://simicodes.xyz  
+- **Featured project:** Stickee  
+  - App: https://stickee.simicodes.xyz  
+  - Info: https://stickee-info.simicodes.xyz  
+
+   A modern web and desktop application for managing and organizing your digital sticky notes and tasks in an easy and fun way. 
+
+---
+
+## 🧰 Tools I Use
+
+Because listing everything at once is just too long:
 
 <details>
-  <summary>📊 Activity Metrics and Languages</summary>
-  
-  <p align="center">
-    <img src="Metrics.svg" alt="GitHub Metrics" width="800"/>
-  </p>
-  
-###### (all repos are private)
+  <summary><strong>Click if you enjoy lists. Or even if you don't.</strong></summary>
+
+### Languages & Tech I Actually Use
+- Kotlin  
+- Dart  
+- Flutter  
+- Python  
+- TypeScript  
+- JavaScript  
+- Rust  
+- Go  
+- HTML  
+- CSS  
+- Shell  
+- Whatever gets the job done  
+
 </details>
 
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slammers001&theme=vue)
--->
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slammers001&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slammers001&theme=vue)
--->
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slammers001&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slammers001&theme=vue&utcOffset=8)
--->
+---
+## 📦 What You’ll Find Here
 
-### 😃 My Followers:
-[![npm](https://img.shields.io/badge/npm-slammers001-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~slammers001)
-![Profile views](https://komarev.com/ghpvc/?username=slammers001&style=for-the-badge&color=FF6600)
-[![Website](https://img.shields.io/badge/Website-www.simicodes.xyz-FFD700?style=for-the-badge&logo=web&logoColor=black)](https://www.simicodes.xyz)
-![GitHub repos](https://img.shields.io/badge/GitHub-slammers001-28a745?style=for-the-badge&logo=github&logoColor=white)
-![Email](https://img.shields.io/badge/Email-hi@simicodes.xyz-blue?style=for-the-badge&logo=gmail&logoColor=white)
-![Location](https://img.shields.io/badge/Location-USA-9B59B6?style=for-the-badge&logo=map&logoColor=white)
-[![Working on](https://img.shields.io/badge/APP-STICKEE.SIMICODES.XyZ-FF69B4?style=for-the-badge&logo=map&logoColor=white)](https://stickee.simicodes.xyz)
-#### Want to be here? Just [follow me](https://github.com/slammers001)
+Mostly unfinished ideas that became useful enough to keep.
 
+---
+
+
+<div align="center">
+
+### Thanks for stopping by 😁
+If something here helps you, steals your idea, or anything else to annoy you - mission accomplished.
+
+</div>
+
+
+### 🫡 Thanks to my followers:
 
 
 <!--START_SECTION:top-followers-->
