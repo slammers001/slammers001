@@ -27,7 +27,6 @@ Also because silence is suspicious.
   <img src="./Metrics.svg" alt="GitHub Metrics" />
 </div>
 
----
 
 ## 🌐 On the Internet
 
@@ -38,7 +37,6 @@ Also because silence is suspicious.
 
    A modern web and desktop application for managing and organizing your digital sticky notes and tasks in an easy and fun way. 
 
----
 
 ## 🧰 Tools I Use
 
@@ -63,12 +61,9 @@ Because listing everything at once is just too long:
 
 </details>
 
----
 ## 📦 What You’ll Find Here
 
 Mostly unfinished ideas that became useful enough to keep.
-
----
 
 
 <div align="center">
