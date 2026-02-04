@@ -70,17 +70,8 @@ Because listing everything at once is just too long:
 
 Mostly unfinished ideas that became useful enough to keep.
 
-
-<div align="center">
-
-### Thanks for stopping by 😁
-If something here helps you, steals your idea, or anything else to annoy you - mission accomplished.
-
-</div>
-
-
 ### 🫡 Thanks to my followers:
-
+###### In order of most recent:
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -116,3 +107,10 @@ If something here helps you, steals your idea, or anything else to annoy you - m
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+<div align="center">
+
+### Thanks for stopping by 😁
+If something here helps you, steals your idea, or anything else to annoy you - mission accomplished.
+
+</div>
