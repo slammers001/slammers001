@@ -9,8 +9,12 @@
   ... Go back to line 5.
 -->
 
-<div align="center">
+<div align="left">
+<img width="200" height="100" aligh="alt="image" src="https://github.com/user-attachments/assets/57284d72-138f-4e64-95c7-d9ea8b10095b" />
+</div>
 
+<div align="center">
+  
 # 👋 Hey, I’m Simi
 **Web and Desktop App Developer**  
 
