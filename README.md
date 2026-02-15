@@ -10,7 +10,7 @@
 -->
 
 <div align="left">
-<img width="200" height="100" aligh="alt="image" src="https://github.com/user-attachments/assets/57284d72-138f-4e64-95c7-d9ea8b10095b" />
+<img width="200" height="100" aligh="alt="image" src="https://raw.githubusercontent.com/slammers001/slammers001/refs/heads/main/squirrel.gif" />
 </div>
 
 <div align="center">
