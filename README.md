@@ -88,6 +88,13 @@ Mostly unfinished ideas that became useful enough to keep.
       <a href="https://github.com/ishandutta2007">ishandutta2007</a>
     </td>
     <td align="center">
+      <a href="https://github.com/standardgalactic">
+        <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="100px;" alt="standardgalactic"/>
+      </a>
+      <br />
+      <a href="https://github.com/standardgalactic">standardgalactic</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/h0011000">
         <img src="https://avatars.githubusercontent.com/u/207253023?v=4" width="100px;" alt="h0011000"/>
       </a>
