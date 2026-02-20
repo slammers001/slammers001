@@ -1,31 +1,25 @@
 # Website: [www.simicodes.xyz](www.simicodes.xyz)
 
 <!--[![](https://github.com/slammers001/slammers001/blob/main/chat.svg)](https://github.com/slammers001)
--->
-<!--<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/94b4fb6f-e1f8-4f55-8c55-8325033447c6" />
--->
-<!--
-[![Your paragraph text](https://github.com/user-attachments/assets/162b973c-9259-4afe-be77-b5fb3b99da5d)](https://simicodes.xyz)
--->
 
-<!--
+<!--<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/94b4fb6f-e1f8-4f55-8c55-8325033447c6" />
+[![Your paragraph text](https://github.com/user-attachments/assets/162b973c-9259-4afe-be77-b5fb3b99da5d)](https://simicodes.xyz)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=slammers001&label=Profile%20views&color=4CAF50&style=flat" />
 </p>
--->
 
-<!--
+
+
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-<!--
-<!--![slammers001's github activity graph](https://raw.githubusercontent.com/slammers001/slammers001/output/github-contribution-grid-snake.svg)
--->
-<!--
+![slammers001's github activity graph](https://raw.githubusercontent.com/slammers001/slammers001/output/github-contribution-grid-snake.svg)
+
 ![slammers001's metrics](https://raw.githubusercontent.com/slammers001/slammers001/main/Metrics.svg)-->
-<!--
+
 ![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
--->
+
 
 
 <!--START_SECTION:octocats-gif-->
@@ -54,15 +48,12 @@
 ###### (all repos are private)
 </details>
 
-<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slammers001&theme=vue)
--->
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slammers001&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slammers001&theme=vue)
--->
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slammers001&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slammers001&theme=vue&utcOffset=8)
--->
+
 
 ### 😃 My Followers:
 
