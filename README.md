@@ -35,7 +35,8 @@ Also because silence is suspicious.
 ## 🌐 On the Internet
 
 - **Website:** https://simicodes.xyz  
-- **Featured project:** Stickee  
+- **Featured project:** Stickee
+  - Github: Private repo, however you can use it:
   - App: https://stickee.simicodes.xyz  
   - Info: https://stickee-info.simicodes.xyz
   - <details>
