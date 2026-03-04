@@ -137,6 +137,6 @@ Mostly unfinished ideas that became useful enough to keep.
 <div align="center">
 
 ### Thanks for stopping by 😁
-If something here helps you, steals your idea, or anything else to annoy you - mission accomplished.
+Email me: <a href="mailto:hi@simicodes.xyz"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
 
 </div>
