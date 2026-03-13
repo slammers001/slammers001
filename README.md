@@ -76,13 +76,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ishandutta2007">
-        <img src="https://avatars.githubusercontent.com/u/2527354?v=4" width="100px;" alt="ishandutta2007"/>
-      </a>
-      <br />
-      <a href="https://github.com/ishandutta2007">ishandutta2007</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="100px;" alt="standardgalactic"/>
       </a>
