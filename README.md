@@ -83,6 +83,13 @@
       <a href="https://github.com/standardgalactic">standardgalactic</a>
     </td>
     <td align="center">
+      <a href="https://github.com/AyjayJr">
+        <img src="https://avatars.githubusercontent.com/u/48783536?v=4" width="100px;" alt="AyjayJr"/>
+      </a>
+      <br />
+      <a href="https://github.com/AyjayJr">AyjayJr</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
       </a>
@@ -117,6 +124,8 @@
       <br />
       <a href="https://github.com/honestv01">honestv01</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/phoenix-dev08">
         <img src="https://avatars.githubusercontent.com/u/242043667?v=4" width="100px;" alt="phoenix-dev08"/>
