@@ -90,6 +90,13 @@
       <a href="https://github.com/AyjayJr">AyjayJr</a>
     </td>
     <td align="center">
+      <a href="https://github.com/JohnMwendwa">
+        <img src="https://avatars.githubusercontent.com/u/72663882?v=4" width="100px;" alt="JohnMwendwa"/>
+      </a>
+      <br />
+      <a href="https://github.com/JohnMwendwa">JohnMwendwa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
       </a>
@@ -117,6 +124,15 @@
       <br />
       <a href="https://github.com/as000010000">as000010000</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bloodbxnny">
+        <img src="https://avatars.githubusercontent.com/u/232474829?v=4" width="100px;" alt="bloodbxnny"/>
+      </a>
+      <br />
+      <a href="https://github.com/bloodbxnny">bloodbxnny</a>
+    </td>
     <td align="center">
       <a href="https://github.com/honestv01">
         <img src="https://avatars.githubusercontent.com/u/236036749?v=4" width="100px;" alt="honestv01"/>
@@ -124,8 +140,6 @@
       <br />
       <a href="https://github.com/honestv01">honestv01</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/phoenix-dev08">
         <img src="https://avatars.githubusercontent.com/u/242043667?v=4" width="100px;" alt="phoenix-dev08"/>
