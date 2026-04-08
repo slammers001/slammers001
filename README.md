@@ -76,6 +76,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/seehiong">
+        <img src="https://avatars.githubusercontent.com/u/6965893?v=4" width="100px;" alt="seehiong"/>
+      </a>
+      <br />
+      <a href="https://github.com/seehiong">seehiong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhijiewong">
         <img src="https://avatars.githubusercontent.com/u/32107008?v=4" width="100px;" alt="zhijiewong"/>
       </a>
@@ -104,12 +111,21 @@
       <a href="https://github.com/JohnMwendwa">JohnMwendwa</a>
     </td>
     <td align="center">
+      <a href="https://github.com/bazzi24">
+        <img src="https://avatars.githubusercontent.com/u/136590069?v=4" width="100px;" alt="bazzi24"/>
+      </a>
+      <br />
+      <a href="https://github.com/bazzi24">bazzi24</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/simegnew1213">
         <img src="https://avatars.githubusercontent.com/u/191137512?v=4" width="100px;" alt="simegnew1213"/>
       </a>
       <br />
       <a href="https://github.com/simegnew1213">simegnew1213</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
@@ -124,28 +140,12 @@
       <br />
       <a href="https://github.com/h0011000">h0011000</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ez0000001000000">
         <img src="https://avatars.githubusercontent.com/u/207921092?v=4" width="100px;" alt="ez0000001000000"/>
       </a>
       <br />
       <a href="https://github.com/ez0000001000000">ez0000001000000</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/as000010000">
-        <img src="https://avatars.githubusercontent.com/u/207921618?v=4" width="100px;" alt="as000010000"/>
-      </a>
-      <br />
-      <a href="https://github.com/as000010000">as000010000</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dayofthedeparted">
-        <img src="https://avatars.githubusercontent.com/u/224675226?v=4" width="100px;" alt="dayofthedeparted"/>
-      </a>
-      <br />
-      <a href="https://github.com/dayofthedeparted">dayofthedeparted</a>
     </td>
   </tr>
 </table>
