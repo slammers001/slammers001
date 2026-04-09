@@ -118,14 +118,21 @@
       <a href="https://github.com/bazzi24">bazzi24</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mwakidenis">
+        <img src="https://avatars.githubusercontent.com/u/182089390?v=4" width="100px;" alt="mwakidenis"/>
+      </a>
+      <br />
+      <a href="https://github.com/mwakidenis">mwakidenis</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/simegnew1213">
         <img src="https://avatars.githubusercontent.com/u/191137512?v=4" width="100px;" alt="simegnew1213"/>
       </a>
       <br />
       <a href="https://github.com/simegnew1213">simegnew1213</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
@@ -139,13 +146,6 @@
       </a>
       <br />
       <a href="https://github.com/h0011000">h0011000</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ez0000001000000">
-        <img src="https://avatars.githubusercontent.com/u/207921092?v=4" width="100px;" alt="ez0000001000000"/>
-      </a>
-      <br />
-      <a href="https://github.com/ez0000001000000">ez0000001000000</a>
     </td>
   </tr>
 </table>
