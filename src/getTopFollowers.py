@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script to get and display top followers using GitHub API
+Script to get and display top followers using GitHub GraphQL API
 Updates the README.md with follower information
 """
 
@@ -10,32 +10,66 @@ import requests
 import json
 
 def get_followers(username, token):
-    """Get followers from GitHub API"""
+    """Get followers from GitHub GraphQL API sorted by most recent first"""
     headers = {
-        'Authorization': f'token {token}',
-        'Accept': 'application/vnd.github.v3+json'
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json'
     }
     
-    followers = []
-    page = 1
-    per_page = 10  # Get top 10 followers
+    # GraphQL query to get followers with their creation dates
+    query = """
+    query($username: String!, $first: Int!) {
+      user(login: $username) {
+        followers(first: $first) {
+          nodes {
+            login
+            avatarUrl
+            url
+            htmlUrl: url
+            createdAt
+          }
+        }
+      }
+    }
+    """
     
-    while len(followers) < per_page:
-        url = f'https://api.github.com/users/{username}/followers?page={page}&per_page={per_page}'
-        response = requests.get(url, headers=headers)
-        
-        if response.status_code != 200:
-            print(f"Error fetching followers: {response.status_code}")
-            return []
-        
-        page_followers = response.json()
-        if not page_followers:
-            break
-            
-        followers.extend(page_followers)
-        page += 1
+    variables = {
+        'username': username,
+        'first': 10  # Get top 10 followers
+    }
     
-    return followers[:per_page]
+    response = requests.post(
+        'https://api.github.com/graphql',
+        headers=headers,
+        json={'query': query, 'variables': variables}
+    )
+    
+    if response.status_code != 200:
+        print(f"Error fetching followers: {response.status_code}")
+        print(f"Response: {response.text}")
+        return []
+    
+    data = response.json()
+    
+    if 'errors' in data:
+        print(f"GraphQL errors: {data['errors']}")
+        return []
+    
+    followers = data.get('data', {}).get('user', {}).get('followers', {}).get('nodes', [])
+    
+    # Sort by createdAt in descending order (most recent first)
+    followers.sort(key=lambda x: x.get('createdAt', ''), reverse=True)
+    
+    # Convert GraphQL response to match expected format
+    formatted_followers = []
+    for follower in followers:
+        formatted_followers.append({
+            'login': follower['login'],
+            'avatar_url': follower['avatarUrl'],
+            'html_url': follower['htmlUrl']
+        })
+    
+    return formatted_followers
 
 def format_followers_html(followers):
     """Format followers as HTML table"""
