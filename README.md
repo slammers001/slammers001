@@ -77,7 +77,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/nelsonnzou-crypt">
-        <img src="https://avatars.githubusercontent.com/u/259183177?u=0444cd898aa9a80def39ae59fcc45c5ea58f2445&v=4" width="100px;" alt="nelsonnzou-crypt"/>
+        <img src="https://avatars.githubusercontent.com/u/259183177?u=3a81d9018abe99d35282666c70338e59c1258b3e&v=4" width="100px;" alt="nelsonnzou-crypt"/>
       </a>
       <br />
       <a href="https://github.com/nelsonnzou-crypt">nelsonnzou-crypt</a>
