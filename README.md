@@ -104,11 +104,11 @@
       <a href="https://github.com/mhhridoy7907">mhhridoy7907</a>
     </td>
     <td align="center">
-      <a href="https://github.com/aibers">
-        <img src="https://avatars.githubusercontent.com/u/208883129?u=1cc3cd5942bc4690413d58238559d0c6e3780904&v=4" width="100px;" alt="aibers"/>
+      <a href="https://github.com/Bd-Mutant7">
+        <img src="https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4" width="100px;" alt="Bd-Mutant7"/>
       </a>
       <br />
-      <a href="https://github.com/aibers">aibers</a>
+      <a href="https://github.com/Bd-Mutant7">Bd-Mutant7</a>
     </td>
     <td align="center">
       <a href="https://github.com/mwakidenis">
@@ -134,18 +134,18 @@
       <a href="https://github.com/dovvnloading">dovvnloading</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bazzi24">
-        <img src="https://avatars.githubusercontent.com/u/136590069?u=578f9fe2c4423d8d71911c611380c43f0847968a&v=4" width="100px;" alt="bazzi24"/>
-      </a>
-      <br />
-      <a href="https://github.com/bazzi24">bazzi24</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/iamapuneet">
         <img src="https://avatars.githubusercontent.com/u/108384826?u=3231410d083fc1cf1f327fab5fb79dad11f19706&v=4" width="100px;" alt="iamapuneet"/>
       </a>
       <br />
       <a href="https://github.com/iamapuneet">iamapuneet</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CelaDaniel">
+        <img src="https://avatars.githubusercontent.com/u/13622306?u=e4f2ba4622e39e1e6d6c0ccd526b364aad7b4f61&v=4" width="100px;" alt="CelaDaniel"/>
+      </a>
+      <br />
+      <a href="https://github.com/CelaDaniel">CelaDaniel</a>
     </td>
   </tr>
 </table>
