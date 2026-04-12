@@ -98,10 +98,10 @@ def format_followers_html(followers):
     
     html = '<table>\n'
     
-    # Process followers in rows of 7
-    for i in range(0, len(followers), 7):
+    # Process followers in rows of 6
+    for i in range(0, len(followers), 6):
         html += '  <tr>\n'
-        row_followers = followers[i:i+7]
+        row_followers = followers[i:i+6]
         
         for follower in row_followers:
             username = follower['login']
