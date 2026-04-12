@@ -76,13 +76,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/nelsonnzou-crypt">
-        <img src="https://avatars.githubusercontent.com/u/259183177?u=3a81d9018abe99d35282666c70338e59c1258b3e&v=4" width="100px;" alt="nelsonnzou-crypt"/>
-      </a>
-      <br />
-      <a href="https://github.com/nelsonnzou-crypt">nelsonnzou-crypt</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/theplagueman">
         <img src="https://avatars.githubusercontent.com/u/257905087?u=4623ac66173657fc617f336b419d852f56712761&v=4" width="100px;" alt="theplagueman"/>
       </a>
@@ -117,8 +110,6 @@
       <br />
       <a href="https://github.com/honestv01">honestv01</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/bloodbxnny">
         <img src="https://avatars.githubusercontent.com/u/232474829?u=d739e4873f921d475466c9baf4a81540f828c2ca&v=4" width="100px;" alt="bloodbxnny"/>
@@ -126,6 +117,8 @@
       <br />
       <a href="https://github.com/bloodbxnny">bloodbxnny</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mhhridoy7907">
         <img src="https://avatars.githubusercontent.com/u/230638080?u=6f4957eedb96aaac7774d200a6cebbd38b42b859&v=4" width="100px;" alt="mhhridoy7907"/>
@@ -161,8 +154,6 @@
       <br />
       <a href="https://github.com/ez0000001000000">ez0000001000000</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/h0011000">
         <img src="https://avatars.githubusercontent.com/u/207253023?u=831ebe88ce4483674b0615a13b57e9109d15d3c2&v=4" width="100px;" alt="h0011000"/>
@@ -170,6 +161,8 @@
       <br />
       <a href="https://github.com/h0011000">h0011000</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
@@ -205,8 +198,6 @@
       <br />
       <a href="https://github.com/dovvnloading">dovvnloading</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/bazzi24">
         <img src="https://avatars.githubusercontent.com/u/136590069?u=578f9fe2c4423d8d71911c611380c43f0847968a&v=4" width="100px;" alt="bazzi24"/>
@@ -214,6 +205,8 @@
       <br />
       <a href="https://github.com/bazzi24">bazzi24</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/iamapuneet">
         <img src="https://avatars.githubusercontent.com/u/108384826?u=3231410d083fc1cf1f327fab5fb79dad11f19706&v=4" width="100px;" alt="iamapuneet"/>
@@ -249,14 +242,21 @@
       <br />
       <a href="https://github.com/CelaDaniel">CelaDaniel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/seehiong">
         <img src="https://avatars.githubusercontent.com/u/6965893?u=3fabbddef2ceb55a4325fedfc1afe855dceb27d9&v=4" width="100px;" alt="seehiong"/>
       </a>
       <br />
       <a href="https://github.com/seehiong">seehiong</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ishandutta2007">
+        <img src="https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&v=4" width="100px;" alt="ishandutta2007"/>
+      </a>
+      <br />
+      <a href="https://github.com/ishandutta2007">ishandutta2007</a>
     </td>
   </tr>
 </table>
