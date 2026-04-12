@@ -10,65 +10,85 @@ import requests
 import json
 
 def get_followers(username, token):
-    """Get followers from GitHub GraphQL API sorted by most recent first"""
+    """Get ALL followers from GitHub GraphQL API sorted by most recent first"""
     headers = {
         'Authorization': f'Bearer {token}',
         'Content-Type': 'application/json'
     }
     
-    # GraphQL query to get followers with their creation dates
-    query = """
-    query($username: String!, $first: Int!) {
-      user(login: $username) {
-        followers(first: $first) {
-          nodes {
-            login
-            avatarUrl
-            url
-            htmlUrl: url
-            createdAt
+    all_followers = []
+    has_next_page = True
+    cursor = None
+    
+    while has_next_page:
+        # GraphQL query to get followers with pagination
+        query = """
+        query($username: String!, $first: Int!, $after: String) {
+          user(login: $username) {
+            followers(first: $first, after: $after) {
+              nodes {
+                login
+                avatarUrl
+                url
+                htmlUrl: url
+                createdAt
+              }
+              pageInfo {
+                hasNextPage
+                endCursor
+              }
+            }
           }
         }
-      }
-    }
-    """
-    
-    variables = {
-        'username': username,
-        'first': 10  # Get top 10 followers
-    }
-    
-    response = requests.post(
-        'https://api.github.com/graphql',
-        headers=headers,
-        json={'query': query, 'variables': variables}
-    )
-    
-    if response.status_code != 200:
-        print(f"Error fetching followers: {response.status_code}")
-        print(f"Response: {response.text}")
-        return []
-    
-    data = response.json()
-    
-    if 'errors' in data:
-        print(f"GraphQL errors: {data['errors']}")
-        return []
-    
-    followers = data.get('data', {}).get('user', {}).get('followers', {}).get('nodes', [])
+        """
+        
+        variables = {
+            'username': username,
+            'first': 100,  # Max per page
+            'after': cursor
+        }
+        
+        response = requests.post(
+            'https://api.github.com/graphql',
+            headers=headers,
+            json={'query': query, 'variables': variables}
+        )
+        
+        if response.status_code != 200:
+            print(f"Error fetching followers: {response.status_code}")
+            print(f"Response: {response.text}")
+            break
+        
+        data = response.json()
+        
+        if 'errors' in data:
+            print(f"GraphQL errors: {data['errors']}")
+            break
+        
+        followers_data = data.get('data', {}).get('user', {}).get('followers', {})
+        followers = followers_data.get('nodes', [])
+        page_info = followers_data.get('pageInfo', {})
+        
+        all_followers.extend(followers)
+        
+        has_next_page = page_info.get('hasNextPage', False)
+        cursor = page_info.get('endCursor')
+        
+        print(f"Fetched {len(followers)} followers, total so far: {len(all_followers)}")
     
     # Sort by createdAt in descending order (most recent first)
-    followers.sort(key=lambda x: x.get('createdAt', ''), reverse=True)
+    all_followers.sort(key=lambda x: x.get('createdAt', ''), reverse=True)
     
     # Convert GraphQL response to match expected format
     formatted_followers = []
-    for follower in followers:
+    for follower in all_followers:
         formatted_followers.append({
             'login': follower['login'],
             'avatar_url': follower['avatarUrl'],
             'html_url': follower['htmlUrl']
         })
     
+    print(f"Total followers fetched: {len(formatted_followers)}")
     return formatted_followers
 
 def format_followers_html(followers):
