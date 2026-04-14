@@ -120,13 +120,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mhhridoy7907">
-        <img src="https://avatars.githubusercontent.com/u/230638080?u=6f4957eedb96aaac7774d200a6cebbd38b42b859&v=4" width="100px;" alt="mhhridoy7907"/>
-      </a>
-      <br />
-      <a href="https://github.com/mhhridoy7907">mhhridoy7907</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dayofthedeparted">
         <img src="https://avatars.githubusercontent.com/u/224675226?u=327721e38c2abe9e127049ecd6b8eb8307809a89&v=4" width="100px;" alt="dayofthedeparted"/>
       </a>
@@ -161,8 +154,6 @@
       <br />
       <a href="https://github.com/h0011000">h0011000</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
@@ -170,6 +161,8 @@
       <br />
       <a href="https://github.com/jaiq123">jaiq123</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/simegnew1213">
         <img src="https://avatars.githubusercontent.com/u/191137512?u=067e168ab690b95b74142299fafbea69d7c6c941&v=4" width="100px;" alt="simegnew1213"/>
@@ -205,8 +198,6 @@
       <br />
       <a href="https://github.com/bazzi24">bazzi24</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/iamapuneet">
         <img src="https://avatars.githubusercontent.com/u/108384826?u=3231410d083fc1cf1f327fab5fb79dad11f19706&v=4" width="100px;" alt="iamapuneet"/>
@@ -214,6 +205,8 @@
       <br />
       <a href="https://github.com/iamapuneet">iamapuneet</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" width="100px;" alt="JohnMwendwa"/>
@@ -249,8 +242,6 @@
       <br />
       <a href="https://github.com/seehiong">seehiong</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ishandutta2007">
         <img src="https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&v=4" width="100px;" alt="ishandutta2007"/>
