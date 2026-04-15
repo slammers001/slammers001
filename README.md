@@ -185,13 +185,6 @@
       <a href="https://github.com/Nauman-Irshad">Nauman-Irshad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dovvnloading">
-        <img src="https://avatars.githubusercontent.com/u/157447210?u=93802df79e2dff8ddca398bcc4f5d834dbea27f5&v=4" width="100px;" alt="dovvnloading"/>
-      </a>
-      <br />
-      <a href="https://github.com/dovvnloading">dovvnloading</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bazzi24">
         <img src="https://avatars.githubusercontent.com/u/136590069?u=578f9fe2c4423d8d71911c611380c43f0847968a&v=4" width="100px;" alt="bazzi24"/>
       </a>
@@ -205,8 +198,6 @@
       <br />
       <a href="https://github.com/iamapuneet">iamapuneet</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" width="100px;" alt="JohnMwendwa"/>
@@ -214,6 +205,8 @@
       <br />
       <a href="https://github.com/JohnMwendwa">JohnMwendwa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AyjayJr">
         <img src="https://avatars.githubusercontent.com/u/48783536?u=327c0db20822b3f1c8565b37177051b9382d7ac3&v=4" width="100px;" alt="AyjayJr"/>
@@ -234,13 +227,6 @@
       </a>
       <br />
       <a href="https://github.com/CelaDaniel">CelaDaniel</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/seehiong">
-        <img src="https://avatars.githubusercontent.com/u/6965893?u=3fabbddef2ceb55a4325fedfc1afe855dceb27d9&v=4" width="100px;" alt="seehiong"/>
-      </a>
-      <br />
-      <a href="https://github.com/seehiong">seehiong</a>
     </td>
     <td align="center">
       <a href="https://github.com/ishandutta2007">
