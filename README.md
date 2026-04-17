@@ -186,7 +186,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/bazzi24">
-        <img src="https://avatars.githubusercontent.com/u/136590069?u=578f9fe2c4423d8d71911c611380c43f0847968a&v=4" width="100px;" alt="bazzi24"/>
+        <img src="https://avatars.githubusercontent.com/u/136590069?u=0113a08f552ce12bebf23b248fcd3745c0a10345&v=4" width="100px;" alt="bazzi24"/>
       </a>
       <br />
       <a href="https://github.com/bazzi24">bazzi24</a>
