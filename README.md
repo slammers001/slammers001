@@ -77,7 +77,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Mikasa1013">
-        <img src="https://avatars.githubusercontent.com/u/260390758?v=4" width="100px;" alt="Mikasa1013"/>
+        <img src="https://avatars.githubusercontent.com/u/260390758?u=1938624409d423c4407409bb815e6b82a553051c&v=4" width="100px;" alt="Mikasa1013"/>
       </a>
       <br />
       <a href="https://github.com/Mikasa1013">Mikasa1013</a>
@@ -236,12 +236,21 @@
       <a href="https://github.com/AyjayJr">AyjayJr</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Dvurechensky">
+        <img src="https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&v=4" width="100px;" alt="Dvurechensky"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dvurechensky">Dvurechensky</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="100px;" alt="standardgalactic"/>
       </a>
       <br />
       <a href="https://github.com/standardgalactic">standardgalactic</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CelaDaniel">
         <img src="https://avatars.githubusercontent.com/u/13622306?u=e4f2ba4622e39e1e6d6c0ccd526b364aad7b4f61&v=4" width="100px;" alt="CelaDaniel"/>
@@ -249,8 +258,6 @@
       <br />
       <a href="https://github.com/CelaDaniel">CelaDaniel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ishandutta2007">
         <img src="https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&v=4" width="100px;" alt="ishandutta2007"/>
