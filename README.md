@@ -208,13 +208,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/bazzi24">
-        <img src="https://avatars.githubusercontent.com/u/136590069?u=0113a08f552ce12bebf23b248fcd3745c0a10345&v=4" width="100px;" alt="bazzi24"/>
-      </a>
-      <br />
-      <a href="https://github.com/bazzi24">bazzi24</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/iamapuneet">
         <img src="https://avatars.githubusercontent.com/u/108384826?u=3231410d083fc1cf1f327fab5fb79dad11f19706&v=4" width="100px;" alt="iamapuneet"/>
       </a>
@@ -249,8 +242,6 @@
       <br />
       <a href="https://github.com/standardgalactic">standardgalactic</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/CelaDaniel">
         <img src="https://avatars.githubusercontent.com/u/13622306?u=e4f2ba4622e39e1e6d6c0ccd526b364aad7b4f61&v=4" width="100px;" alt="CelaDaniel"/>
@@ -258,6 +249,8 @@
       <br />
       <a href="https://github.com/CelaDaniel">CelaDaniel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ishandutta2007">
         <img src="https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&v=4" width="100px;" alt="ishandutta2007"/>
