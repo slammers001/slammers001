@@ -9,10 +9,6 @@
   ... Go back to line 5.
 -->
 
-<div align="left">
-<img width="200" height="100" aligh="alt="image" src="https://raw.githubusercontent.com/slammers001/slammers001/refs/heads/main/squirrel.gif" />
-</div>
-
 <div align="center">
   
 # 👋 𝙷𝚎𝚢, 𝙸’𝚖 𝚂𝚒𝚖𝚒
