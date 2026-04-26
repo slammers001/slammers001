@@ -182,7 +182,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/simegnew1213">
-        <img src="https://avatars.githubusercontent.com/u/191137512?u=3750b7f2b167d38b12449ca248ed47ffa70dd4c2&v=4" width="100px;" alt="simegnew1213"/>
+        <img src="https://avatars.githubusercontent.com/u/191137512?u=00202afa750bfae931ae6356649090c54c1b5edc&v=4" width="100px;" alt="simegnew1213"/>
       </a>
       <br />
       <a href="https://github.com/simegnew1213">simegnew1213</a>
