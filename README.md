@@ -248,13 +248,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/CelaDaniel">
-        <img src="https://avatars.githubusercontent.com/u/13622306?u=e4f2ba4622e39e1e6d6c0ccd526b364aad7b4f61&v=4" width="100px;" alt="CelaDaniel"/>
-      </a>
-      <br />
-      <a href="https://github.com/CelaDaniel">CelaDaniel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ishandutta2007">
         <img src="https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&v=4" width="100px;" alt="ishandutta2007"/>
       </a>
