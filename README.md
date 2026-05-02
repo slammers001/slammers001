@@ -131,7 +131,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/dayofthedeparted">
-        <img src="https://avatars.githubusercontent.com/u/224675226?u=327721e38c2abe9e127049ecd6b8eb8307809a89&v=4" width="100px;" alt="dayofthedeparted"/>
+        <img src="https://avatars.githubusercontent.com/u/224675226?u=bf159bbf2333c24154d101130ca26222d1f25b65&v=4" width="100px;" alt="dayofthedeparted"/>
       </a>
       <br />
       <a href="https://github.com/dayofthedeparted">dayofthedeparted</a>
