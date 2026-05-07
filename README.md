@@ -79,11 +79,11 @@
       <a href="https://github.com/riponhossain12315-pixel">riponhossain12315-pixel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mikasa1013">
-        <img src="https://avatars.githubusercontent.com/u/260390758?u=1938624409d423c4407409bb815e6b82a553051c&v=4" width="100px;" alt="Mikasa1013"/>
+      <a href="https://github.com/alpha09252">
+        <img src="https://avatars.githubusercontent.com/u/260390758?u=8a386b8d4453c6cef31576f9ce12501375ab86be&v=4" width="100px;" alt="alpha09252"/>
       </a>
       <br />
-      <a href="https://github.com/Mikasa1013">Mikasa1013</a>
+      <a href="https://github.com/alpha09252">alpha09252</a>
     </td>
     <td align="center">
       <a href="https://github.com/theplagueman">
