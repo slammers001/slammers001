@@ -225,6 +225,13 @@
       <a href="https://github.com/iamapuneet">iamapuneet</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jan-kubica">
+        <img src="https://avatars.githubusercontent.com/u/104276362?u=cf60840c17a6ce09006a92a6a808ec8ab41a36ba&v=4" width="100px;" alt="jan-kubica"/>
+      </a>
+      <br />
+      <a href="https://github.com/jan-kubica">jan-kubica</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" width="100px;" alt="JohnMwendwa"/>
       </a>
@@ -238,6 +245,8 @@
       <br />
       <a href="https://github.com/AyjayJr">AyjayJr</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dvurechensky">
         <img src="https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&v=4" width="100px;" alt="Dvurechensky"/>
@@ -245,8 +254,6 @@
       <br />
       <a href="https://github.com/Dvurechensky">Dvurechensky</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="100px;" alt="standardgalactic"/>
