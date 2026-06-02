@@ -72,6 +72,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ahmed369younis-hue">
+        <img src="https://avatars.githubusercontent.com/u/273235422?u=362cbb3384811d3ca0ca613c104f9515d0a9ee52&v=4" width="100px;" alt="ahmed369younis-hue"/>
+      </a>
+      <br />
+      <a href="https://github.com/ahmed369younis-hue">ahmed369younis-hue</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/riponhossain12315-pixel">
         <img src="https://avatars.githubusercontent.com/u/266229737?v=4" width="100px;" alt="riponhossain12315-pixel"/>
       </a>
@@ -101,11 +108,13 @@
     </td>
     <td align="center">
       <a href="https://github.com/duzric">
-        <img src="https://avatars.githubusercontent.com/u/245567688?u=e063d16a60676d3a96af071eb0f88c4239ed5a3f&v=4" width="100px;" alt="duzric"/>
+        <img src="https://avatars.githubusercontent.com/u/245567688?u=3d08381076f78f612645eb23dea810eea6889f1a&v=4" width="100px;" alt="duzric"/>
       </a>
       <br />
       <a href="https://github.com/duzric">duzric</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ahmedali22221193-art">
         <img src="https://avatars.githubusercontent.com/u/244569656?v=4" width="100px;" alt="ahmedali22221193-art"/>
@@ -113,8 +122,6 @@
       <br />
       <a href="https://github.com/ahmedali22221193-art">ahmedali22221193-art</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/phoenix-dev08">
         <img src="https://avatars.githubusercontent.com/u/242043667?u=2f156c9dfe7fdb7f098b67efdda57c1f0b91a10b&v=4" width="100px;" alt="phoenix-dev08"/>
@@ -150,6 +157,8 @@
       <br />
       <a href="https://github.com/as000010000">as000010000</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ez0000001000000">
         <img src="https://avatars.githubusercontent.com/u/207921092?u=9da46787814bf6a44e4973f8a7fa8483a7bc00eb&v=4" width="100px;" alt="ez0000001000000"/>
@@ -157,8 +166,6 @@
       <br />
       <a href="https://github.com/ez0000001000000">ez0000001000000</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/h0011000">
         <img src="https://avatars.githubusercontent.com/u/207253023?u=831ebe88ce4483674b0615a13b57e9109d15d3c2&v=4" width="100px;" alt="h0011000"/>
@@ -194,6 +201,8 @@
       <br />
       <a href="https://github.com/ipqwery">ipqwery</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Bd-Mutant7">
         <img src="https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4" width="100px;" alt="Bd-Mutant7"/>
@@ -201,8 +210,6 @@
       <br />
       <a href="https://github.com/Bd-Mutant7">Bd-Mutant7</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Nauman-Irshad">
         <img src="https://avatars.githubusercontent.com/u/171707812?u=29f11e26b097d0c3a4da641cfd80c0cc84640e88&v=4" width="100px;" alt="Nauman-Irshad"/>
@@ -216,13 +223,6 @@
       </a>
       <br />
       <a href="https://github.com/iamapuneet">iamapuneet</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JohnMwendwa">
-        <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" width="100px;" alt="JohnMwendwa"/>
-      </a>
-      <br />
-      <a href="https://github.com/JohnMwendwa">JohnMwendwa</a>
     </td>
     <td align="center">
       <a href="https://github.com/AyjayJr">
