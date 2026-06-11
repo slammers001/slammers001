@@ -100,11 +100,11 @@
       <a href="https://github.com/alpha09252">alpha09252</a>
     </td>
     <td align="center">
-      <a href="https://github.com/theplagueman">
-        <img src="https://avatars.githubusercontent.com/u/257905087?u=4623ac66173657fc617f336b419d852f56712761&v=4" width="100px;" alt="theplagueman"/>
+      <a href="https://github.com/ilovemybf-alot">
+        <img src="https://avatars.githubusercontent.com/u/257905087?u=ea527ab10e6f72bee55e3e3c38636428a92fc35a&v=4" width="100px;" alt="ilovemybf-alot"/>
       </a>
       <br />
-      <a href="https://github.com/theplagueman">theplagueman</a>
+      <a href="https://github.com/ilovemybf-alot">ilovemybf-alot</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChristianPeritore">
@@ -175,7 +175,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/h0011000">
-        <img src="https://avatars.githubusercontent.com/u/207253023?u=831ebe88ce4483674b0615a13b57e9109d15d3c2&v=4" width="100px;" alt="h0011000"/>
+        <img src="https://avatars.githubusercontent.com/u/207253023?u=7fcfc9ce79c47ebab8a79fa15ca1a3fd40a769c9&v=4" width="100px;" alt="h0011000"/>
       </a>
       <br />
       <a href="https://github.com/h0011000">h0011000</a>
