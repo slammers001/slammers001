@@ -160,11 +160,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/dayofthedeparted">
-        <img src="https://avatars.githubusercontent.com/u/224675226?u=bf159bbf2333c24154d101130ca26222d1f25b65&v=4" width="100px;" alt="dayofthedeparted"/>
+      <a href="https://github.com/threestories">
+        <img src="https://avatars.githubusercontent.com/u/224675226?u=4ddda21ec42d186a08b2e5614f97a4fce1cffa68&v=4" width="100px;" alt="threestories"/>
       </a>
       <br />
-      <a href="https://github.com/dayofthedeparted">dayofthedeparted</a>
+      <a href="https://github.com/threestories">threestories</a>
     </td>
     <td align="center">
       <a href="https://github.com/as000010000">
