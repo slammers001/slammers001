@@ -87,7 +87,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/ahmed369younis-hue">
-        <img src="https://avatars.githubusercontent.com/u/273235422?u=362cbb3384811d3ca0ca613c104f9515d0a9ee52&v=4" width="100px;" alt="ahmed369younis-hue"/>
+        <img src="https://avatars.githubusercontent.com/u/273235422?u=777416051151d301a5d93da918a55846b9f3d511&v=4" width="100px;" alt="ahmed369younis-hue"/>
       </a>
       <br />
       <a href="https://github.com/ahmed369younis-hue">ahmed369younis-hue</a>
