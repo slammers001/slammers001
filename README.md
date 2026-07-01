@@ -167,13 +167,6 @@
       <a href="https://github.com/bloodbxnny">bloodbxnny</a>
     </td>
     <td align="center">
-      <a href="https://github.com/threestories">
-        <img src="https://avatars.githubusercontent.com/u/224675226?u=4ddda21ec42d186a08b2e5614f97a4fce1cffa68&v=4" width="100px;" alt="threestories"/>
-      </a>
-      <br />
-      <a href="https://github.com/threestories">threestories</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/as000010000">
         <img src="https://avatars.githubusercontent.com/u/207921618?u=58368b7d2c1d1aeaf115802198dab072fcaef9ee&v=4" width="100px;" alt="as000010000"/>
       </a>
@@ -201,8 +194,6 @@
       <br />
       <a href="https://github.com/Tony-aphrodite">Tony-aphrodite</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
@@ -210,6 +201,8 @@
       <br />
       <a href="https://github.com/jaiq123">jaiq123</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/simegnew1213">
         <img src="https://avatars.githubusercontent.com/u/191137512?u=00202afa750bfae931ae6356649090c54c1b5edc&v=4" width="100px;" alt="simegnew1213"/>
@@ -245,8 +238,6 @@
       <br />
       <a href="https://github.com/iamapuneet">iamapuneet</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AyjayJr">
         <img src="https://avatars.githubusercontent.com/u/48783536?u=327c0db20822b3f1c8565b37177051b9382d7ac3&v=4" width="100px;" alt="AyjayJr"/>
@@ -254,6 +245,8 @@
       <br />
       <a href="https://github.com/AyjayJr">AyjayJr</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dvurechensky">
         <img src="https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&v=4" width="100px;" alt="Dvurechensky"/>
