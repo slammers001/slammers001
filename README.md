@@ -168,7 +168,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/ez0000001000000">
-        <img src="https://avatars.githubusercontent.com/u/207921092?u=9da46787814bf6a44e4973f8a7fa8483a7bc00eb&v=4" width="100px;" alt="ez0000001000000"/>
+        <img src="https://avatars.githubusercontent.com/u/207921092?u=a2dbc7f47955070aa9eca60b5603b7c5318e3105&v=4" width="100px;" alt="ez0000001000000"/>
       </a>
       <br />
       <a href="https://github.com/ez0000001000000">ez0000001000000</a>
