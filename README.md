@@ -160,18 +160,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/as000010000">
-        <img src="https://avatars.githubusercontent.com/u/207921618?u=58368b7d2c1d1aeaf115802198dab072fcaef9ee&v=4" width="100px;" alt="as000010000"/>
+      <a href="https://github.com/bahm-boozle">
+        <img src="https://avatars.githubusercontent.com/u/207921618?u=446ea44c54ccc2d638d6e051ed7f8f4500f3cea5&v=4" width="100px;" alt="bahm-boozle"/>
       </a>
       <br />
-      <a href="https://github.com/as000010000">as000010000</a>
+      <a href="https://github.com/bahm-boozle">bahm-boozle</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ez0000001000000">
-        <img src="https://avatars.githubusercontent.com/u/207921092?u=a2dbc7f47955070aa9eca60b5603b7c5318e3105&v=4" width="100px;" alt="ez0000001000000"/>
+      <a href="https://github.com/professor-pie">
+        <img src="https://avatars.githubusercontent.com/u/207921092?u=74c71520af91a4d0baf29317aee2d2dffb2a33d1&v=4" width="100px;" alt="professor-pie"/>
       </a>
       <br />
-      <a href="https://github.com/ez0000001000000">ez0000001000000</a>
+      <a href="https://github.com/professor-pie">professor-pie</a>
     </td>
     <td align="center">
       <a href="https://github.com/h0011000">
