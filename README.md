@@ -166,11 +166,11 @@
       <a href="https://github.com/picklebomber">picklebomber</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prof-pie">
-        <img src="https://avatars.githubusercontent.com/u/207921092?u=74c71520af91a4d0baf29317aee2d2dffb2a33d1&v=4" width="100px;" alt="prof-pie"/>
+      <a href="https://github.com/Hot-Coco">
+        <img src="https://avatars.githubusercontent.com/u/207921092?u=e9820a95d84f3554ede00de39ee715714abbae7c&v=4" width="100px;" alt="Hot-Coco"/>
       </a>
       <br />
-      <a href="https://github.com/prof-pie">prof-pie</a>
+      <a href="https://github.com/Hot-Coco">Hot-Coco</a>
     </td>
     <td align="center">
       <a href="https://github.com/h0011000">
