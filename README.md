@@ -159,6 +159,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/missionary5">
+        <img src="https://avatars.githubusercontent.com/u/226569116?v=4" width="100px;" alt="missionary5"/>
+      </a>
+      <br />
+      <a href="https://github.com/missionary5">missionary5</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/picklebomber">
         <img src="https://avatars.githubusercontent.com/u/207921618?u=446ea44c54ccc2d638d6e051ed7f8f4500f3cea5&v=4" width="100px;" alt="picklebomber"/>
       </a>
@@ -193,6 +200,8 @@
       <br />
       <a href="https://github.com/jaiq123">jaiq123</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/simegnew1213">
         <img src="https://avatars.githubusercontent.com/u/191137512?u=00202afa750bfae931ae6356649090c54c1b5edc&v=4" width="100px;" alt="simegnew1213"/>
@@ -200,8 +209,6 @@
       <br />
       <a href="https://github.com/simegnew1213">simegnew1213</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ipqwery">
         <img src="https://avatars.githubusercontent.com/u/188051590?u=2912dd6166c0d0e075e960bc723bbfe1c0452bae&v=4" width="100px;" alt="ipqwery"/>
@@ -237,6 +244,8 @@
       <br />
       <a href="https://github.com/AyjayJr">AyjayJr</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dvurechensky">
         <img src="https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&v=4" width="100px;" alt="Dvurechensky"/>
@@ -244,8 +253,6 @@
       <br />
       <a href="https://github.com/Dvurechensky">Dvurechensky</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="100px;" alt="standardgalactic"/>
