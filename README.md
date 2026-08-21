@@ -210,13 +210,6 @@
       <a href="https://github.com/ipqwery">ipqwery</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Bd-Mutant7">
-        <img src="https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4" width="100px;" alt="Bd-Mutant7"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bd-Mutant7">Bd-Mutant7</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Nauman-Irshad">
         <img src="https://avatars.githubusercontent.com/u/171707812?u=5828e4699dbb40390549d71ac962d1179bdf618f&v=4" width="100px;" alt="Nauman-Irshad"/>
       </a>
@@ -244,8 +237,6 @@
       <br />
       <a href="https://github.com/Dvurechensky">Dvurechensky</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="100px;" alt="standardgalactic"/>
