@@ -167,7 +167,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Hot-Coco">
-        <img src="https://avatars.githubusercontent.com/u/207921092?u=0d6f8d5683211068cafc7a54149ce5cbd6aff0cf&v=4" width="100px;" alt="Hot-Coco"/>
+        <img src="https://avatars.githubusercontent.com/u/207921092?u=6211339679ba0689ccbe97b124d79550018fba61&v=4" width="100px;" alt="Hot-Coco"/>
       </a>
       <br />
       <a href="https://github.com/Hot-Coco">Hot-Coco</a>
