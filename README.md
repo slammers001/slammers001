@@ -71,13 +71,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ancaferro">
-        <img src="https://avatars.githubusercontent.com/u/287352285?u=9f4cdc663550b3e53a9ede714049645b78974d43&v=4" width="100px;" alt="ancaferro"/>
-      </a>
-      <br />
-      <a href="https://github.com/ancaferro">ancaferro</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mipmopsap-ui">
         <img src="https://avatars.githubusercontent.com/u/273373067?v=4" width="100px;" alt="mipmopsap-ui"/>
       </a>
@@ -112,8 +105,6 @@
       <br />
       <a href="https://github.com/duzric">duzric</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ahmedali22221193-art">
         <img src="https://avatars.githubusercontent.com/u/244569656?v=4" width="100px;" alt="ahmedali22221193-art"/>
@@ -121,6 +112,8 @@
       <br />
       <a href="https://github.com/ahmedali22221193-art">ahmedali22221193-art</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/phoenix-dev08">
         <img src="https://avatars.githubusercontent.com/u/242043667?u=2f156c9dfe7fdb7f098b67efdda57c1f0b91a10b&v=4" width="100px;" alt="phoenix-dev08"/>
@@ -156,8 +149,6 @@
       <br />
       <a href="https://github.com/missionary5">missionary5</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/picklebomber">
         <img src="https://avatars.githubusercontent.com/u/207921618?u=446ea44c54ccc2d638d6e051ed7f8f4500f3cea5&v=4" width="100px;" alt="picklebomber"/>
@@ -165,6 +156,8 @@
       <br />
       <a href="https://github.com/picklebomber">picklebomber</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Hot-Coco">
         <img src="https://avatars.githubusercontent.com/u/207921092?u=6211339679ba0689ccbe97b124d79550018fba61&v=4" width="100px;" alt="Hot-Coco"/>
@@ -200,8 +193,6 @@
       <br />
       <a href="https://github.com/simegnew1213">simegnew1213</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ipqwery">
         <img src="https://avatars.githubusercontent.com/u/188051590?u=2912dd6166c0d0e075e960bc723bbfe1c0452bae&v=4" width="100px;" alt="ipqwery"/>
@@ -209,6 +200,8 @@
       <br />
       <a href="https://github.com/ipqwery">ipqwery</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Nauman-Irshad">
         <img src="https://avatars.githubusercontent.com/u/171707812?u=5828e4699dbb40390549d71ac962d1179bdf618f&v=4" width="100px;" alt="Nauman-Irshad"/>
