@@ -159,11 +159,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Hot-Coco">
-        <img src="https://avatars.githubusercontent.com/u/207921092?u=6211339679ba0689ccbe97b124d79550018fba61&v=4" width="100px;" alt="Hot-Coco"/>
+      <a href="https://github.com/TheLimeDev">
+        <img src="https://avatars.githubusercontent.com/u/207921092?u=c1d16f595f2531ad5b65eb709861321f4f6afb5f&v=4" width="100px;" alt="TheLimeDev"/>
       </a>
       <br />
-      <a href="https://github.com/Hot-Coco">Hot-Coco</a>
+      <a href="https://github.com/TheLimeDev">TheLimeDev</a>
     </td>
     <td align="center">
       <a href="https://github.com/h0011000">
