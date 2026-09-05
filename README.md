@@ -115,13 +115,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/phoenix-dev08">
-        <img src="https://avatars.githubusercontent.com/u/242043667?u=2f156c9dfe7fdb7f098b67efdda57c1f0b91a10b&v=4" width="100px;" alt="phoenix-dev08"/>
-      </a>
-      <br />
-      <a href="https://github.com/phoenix-dev08">phoenix-dev08</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/calebdhlogistics-cpu">
         <img src="https://avatars.githubusercontent.com/u/238785675?v=4" width="100px;" alt="calebdhlogistics-cpu"/>
       </a>
@@ -156,8 +149,6 @@
       <br />
       <a href="https://github.com/picklebomber">picklebomber</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TheLimeDev">
         <img src="https://avatars.githubusercontent.com/u/207921092?u=9250d21049c95fc8bb3e4a21d029e558eba52917&v=4" width="100px;" alt="TheLimeDev"/>
@@ -165,6 +156,8 @@
       <br />
       <a href="https://github.com/TheLimeDev">TheLimeDev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/h0011000">
         <img src="https://avatars.githubusercontent.com/u/207253023?u=7fcfc9ce79c47ebab8a79fa15ca1a3fd40a769c9&v=4" width="100px;" alt="h0011000"/>
@@ -200,8 +193,6 @@
       <br />
       <a href="https://github.com/ipqwery">ipqwery</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Nauman-Irshad">
         <img src="https://avatars.githubusercontent.com/u/171707812?u=5828e4699dbb40390549d71ac962d1179bdf618f&v=4" width="100px;" alt="Nauman-Irshad"/>
@@ -209,6 +200,8 @@
       <br />
       <a href="https://github.com/Nauman-Irshad">Nauman-Irshad</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/iamapuneet">
         <img src="https://avatars.githubusercontent.com/u/108384826?u=3231410d083fc1cf1f327fab5fb79dad11f19706&v=4" width="100px;" alt="iamapuneet"/>
