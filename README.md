@@ -151,7 +151,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/TheLimeDev">
-        <img src="https://avatars.githubusercontent.com/u/207921092?u=9250d21049c95fc8bb3e4a21d029e558eba52917&v=4" width="100px;" alt="TheLimeDev"/>
+        <img src="https://avatars.githubusercontent.com/u/207921092?u=1b2b71d8f19a17df7ba5344bacc9acabfc430088&v=4" width="100px;" alt="TheLimeDev"/>
       </a>
       <br />
       <a href="https://github.com/TheLimeDev">TheLimeDev</a>
