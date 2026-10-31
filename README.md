@@ -150,14 +150,21 @@
       <a href="https://github.com/honestv01">honestv01</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yumiaura">
+        <img src="https://avatars.githubusercontent.com/u/235065808?u=a1b0635522ae3443c108b80c2322701b6be8899b&v=4" width="100px;" alt="yumiaura"/>
+      </a>
+      <br />
+      <a href="https://github.com/yumiaura">yumiaura</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/bloodbxnny">
         <img src="https://avatars.githubusercontent.com/u/232474829?u=d739e4873f921d475466c9baf4a81540f828c2ca&v=4" width="100px;" alt="bloodbxnny"/>
       </a>
       <br />
       <a href="https://github.com/bloodbxnny">bloodbxnny</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/missionary5">
         <img src="https://avatars.githubusercontent.com/u/226569116?v=4" width="100px;" alt="missionary5"/>
@@ -193,6 +200,8 @@
       <br />
       <a href="https://github.com/Tony-aphrodite">Tony-aphrodite</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jaiq123">
         <img src="https://avatars.githubusercontent.com/u/201192802?v=4" width="100px;" alt="jaiq123"/>
@@ -200,8 +209,6 @@
       <br />
       <a href="https://github.com/jaiq123">jaiq123</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/simegnew1213">
         <img src="https://avatars.githubusercontent.com/u/191137512?u=00202afa750bfae931ae6356649090c54c1b5edc&v=4" width="100px;" alt="simegnew1213"/>
@@ -237,6 +244,8 @@
       <br />
       <a href="https://github.com/AyjayJr">AyjayJr</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dvurechensky">
         <img src="https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&v=4" width="100px;" alt="Dvurechensky"/>
@@ -244,8 +253,6 @@
       <br />
       <a href="https://github.com/Dvurechensky">Dvurechensky</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="100px;" alt="standardgalactic"/>
