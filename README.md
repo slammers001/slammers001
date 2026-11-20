@@ -247,6 +247,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/kpopdev">
+        <img src="https://avatars.githubusercontent.com/u/28566705?u=f9d7bc81896a62cd52997f2f6b575d575297d878&v=4" width="100px;" alt="kpopdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/kpopdev">kpopdev</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?u=1290529ea5e553a2fb07d62c8a8640b6c9deed18&v=4" width="100px;" alt="gamemann"/>
       </a>
